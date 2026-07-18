@@ -44,6 +44,29 @@ aside img{
   height: auto;
 }
 
+aside.bkv{
+  background: honeydew;
+}
+
+aside.bkv img{
+  width: 300px
+}
+
+aside.cmp{
+  background: thistle
+}
+
+h3{
+  color: rebeccapurple
+}
+h4{
+  color: saddlebrown
+}
+
+aside.cmp img{
+  width: 350px
+}
+
 main img{
   width: 150;
   height: auto;
